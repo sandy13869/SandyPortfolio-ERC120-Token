@@ -2,7 +2,7 @@
 Portfolio Repository
 
 # SandyPortfolio-ERC20-Token
-ERC120-Token in Ethereum in Solidity
+ERC120-Token in Ethereum with Solidity
 
 ## Setting Up
 ### 1. Download/Clone the Repository
